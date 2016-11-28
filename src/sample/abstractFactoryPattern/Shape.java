@@ -1,5 +1,5 @@
 package sample.abstractFactoryPattern;
 
-public interface Shape {
+interface Shape {
     void draw();
 }
